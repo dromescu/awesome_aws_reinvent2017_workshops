@@ -16,6 +16,8 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * ALX402 - Oh No, I Got Featured: How to Build, Scale, and Test an Alexa Backend to Handle All Your New Customers
 * ALX401 - Advanced Alexa Skill Building: Conversation and Memory
 * ALX306 - Build a Game Skill for Echo Buttons
+* ALX316 - How to Build a Backend for an Alexa Smart Home Skill
+
 
 ## Analytics & Big Data
 * ABD322 - Implementing a Flight Simulator Interface Using AI, Virtual Reality, and Big Data on AWS
@@ -25,11 +27,12 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * ABD321 - Don’t Wait Until Tomorrow: How to Use Streaming Data to Gain Real-time Insights into Your Business
 * ARC214 - Addressing Your Business Needs with AWS
 * ABD313 - Building an End-to-End Serverless Data Analytics Solution on AWS
-
+* ABD325 - Deliver Voice-Automated Serverless BI Solutions in Under 3 Hours
 
 
 ## Architecture
 * ARC325 - Managing Multiple AWS Accounts at Scale
+* ARC324 - Building Manageable Windows Workloads
 
 ## Automotive
 * AMF303 - Deep Dive into the Connected Vehicle Reference Architecture
@@ -42,13 +45,14 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 ## Compute
 * CMP316 - Hedge Your Own Funds: Run Monte Carlo Simulations on Amazon EC2 Spot Fleets
 * CMP216 - Use Amazon EC2 Spot Instances to Deploy a Deep Learning Framework on Amazon ECS
+* CMP317 - Run Your CI/CD and Test Workloads for 90% Less with Amazon EC2 Spot
 
 ## Containers
 * CON209 - Interstella 8888: Learn How to Use Docker on AWS
 * CON318 - Interstella 8888: Monolith to Microservices with Amazon ECS
 * CON213 - Hands-on Deployment of Kubernetes on AWS
 * CON317 - Advanced Container Management at Catsndogs.lol
-
+* CON332 - Build a Java Spring Application on Amazon ECS
 
 ## Content Delivery
 * CTD403 - Supercharge Your Websites with the Power of Lambda@Edge
@@ -62,11 +66,15 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * DEV326 - DevOps Essentials: An Introductory Workshop on CI/CD Practices
 * DEV337 - Deploy a Data Lake with AWS CloudFormation
 * DEV401 - Advanced DevOps Practices for AWS
-* DEV326-R - [REPEAT] DevOps Essentials: An Introductory Workshop on CI/CD Practices
+* DEV326 - DevOps Essentials: An Introductory Workshop on CI/CD Practices
+* DEV336 - Stack Mastery: Create and Optimize Advanced AWS CloudFormation Templates
 
 ## Enterprise
 * ENT222 - Creating an Effective Roadmap for Your Cloud Journey
 * ENT223 - Leveraging the AWS Cloud Adoption Framework to Build Your Cloud Action Plan
+* ENT221 - Enabling Enterprise-Grade Security, Risk, and Compliance Posture in the Cloud
+* ENT220 - How Amazon Works Backward from the Customer to Drive Innovation
+
 
 ## Games
 * [GAM309 - Breathe Life into a Mobile Game](http://awsmicrosite.kr)
@@ -81,6 +89,8 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * IOT326 - Developing Predictive IoT Applications Using AWS IoT and Amazon Machine Learning
 * IOT328 - Building an AWS IoT-Enabled Drink Dispenser
 * IOT203 - Getting Started with AWS IoT
+* IOT329 - AWS Greengrass Advanced Workshop
+
 
 ## Life sciences
 * LFS309 - High-Throughput Genomics on AWS
@@ -92,7 +102,9 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * MCL334 - Find Missing Persons by Scanning Social Media with Amazon Rekognition
 * MCL356 - Using Crowdsourced Training Data from Amazon Mechanical Turk to Kick-Start Your First Machine Learning Model
 * MCL309 - Deep Learning on a Raspberry Pi
-
+* MCL212 - Building Computer Vision Applications
+* MCL333 - Building Deep Learning Applications with TensorFlow on AWS
+* MCL311 - Accelerating Apache MXNet Models on Apple Platforms Using Core ML
 
 # Marketplace
 * MSC204 - Leverage AWS Marketplace to Accelerate Production-Ready Workloads
@@ -124,12 +136,18 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * SID345 - AWS Encryption SDK: The Busy Engineer’s Guide to Client-Side Encryption
 * SID402 - An AWS Security Odyssey: Implementing Security Controls in the World of Internet, Big Data, IoT and E-Commerce Platforms
 * SID311 - Designing Security and Governance Across a Multi-Account Strategy
+* SID343 - User Management and App Authentication with Amazon Cognito
+* SID341 - Using AWS CloudTrail Logs for Scalable, Automated Anomaly Detection
+* STG319 - Data Security in the Cloud Demystified – Policies, Protection, and Tools for Your Data Assets
 
 ## Serverless
 * SRV331 - Build a Multi-Region Serverless Application for Resilience and High Availability
 * SRV332 - Building Serverless Real-Time Data Processing (Now with Unicorns!)
 * SRV334 - Making Things Right with AWS Config Rules and AWS Lambda
 * SRV330 - Serverless DevOps to the Rescue
+* SRV333 - Designing and Implementing a Serverless Media Processing Workflow Using AWS Step Functions
+* SRV425 - Serverless OAuth: Authorizing Third-Party Applications to Your Serverless API
+*
 
 ## Telecom
 * TLC303 - Walkthrough: Setting up a Highly Available Communications Platform on AWS
@@ -137,4 +155,5 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 ## Windows
 * WIN205 - Building a Better .NET Bot with AWS Services
 * WIN401 - Migrating Microsoft Applications to AWS
+* WIN314 - Strategies for Migrating Microsoft SQL Databases to AWS
 
