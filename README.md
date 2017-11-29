@@ -1,9 +1,11 @@
-# awesome_aws_workshops
-Links to AWS re:Invent 2017 Workshops
+# Awesome AWS re:Invent 2017 Workshops
+tldr: Links to AWS re:Invent 2017 Workshops
+
+The information for the AWS Workshops presented at re:Invent 2017 is spread out across aws accounts, developer accounts, and random microsites.  This readme attempts to index them all for anyone that wants to follow up once they get back home.
 
 **PRs accepted**
 
-__Courses (by alphabetical listing):__
+# Courses (by alphabetical listing)
 
 ## Alexa 
 
@@ -15,6 +17,6 @@ __Courses (by alphabetical listing):__
 * [GAM309 - Breathe Life into a Mobile Game](http://awsmicrosite.kr)
 * [GAM310 - TELEMETRY & ANALYTICS’ PIPELINES FOR GAME BALANCING](http://gam310-2017.s3-website-us-west-2.amazonaws.com)
 
-# Security
+## Security
 
 
