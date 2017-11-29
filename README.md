@@ -17,6 +17,7 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * ALX401 - Advanced Alexa Skill Building: Conversation and Memory
 * ALX306 - Build a Game Skill for Echo Buttons
 * ALX316 - How to Build a Backend for an Alexa Smart Home Skill
+* ALX305 - Designing Far-Field Speech Processing Systems with Intel and Amazon Alexa Voice Service
 
 
 ## Analytics & Big Data
@@ -28,11 +29,14 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * ARC214 - Addressing Your Business Needs with AWS
 * ABD313 - Building an End-to-End Serverless Data Analytics Solution on AWS
 * ABD325 - Deliver Voice-Automated Serverless BI Solutions in Under 3 Hours
+* ABD328 - Zombie Annihilation Using AWS Big Data: Turning a Data Swamp into a Data Lake
+* ABD326 - Easy and Scalable Log Analytics with Amazon Elasticsearch Service
 
 
 ## Architecture
 * ARC325 - Managing Multiple AWS Accounts at Scale
 * ARC324 - Building Manageable Windows Workloads
+* ARC326 - Create a Serverless Image Processing Platform
 
 ## Automotive
 * AMF303 - Deep Dive into the Connected Vehicle Reference Architecture
@@ -46,6 +50,7 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * CMP316 - Hedge Your Own Funds: Run Monte Carlo Simulations on Amazon EC2 Spot Fleets
 * CMP216 - Use Amazon EC2 Spot Instances to Deploy a Deep Learning Framework on Amazon ECS
 * CMP317 - Run Your CI/CD and Test Workloads for 90% Less with Amazon EC2 Spot
+* CMP402 - Accelerate Your C/C++ Applications with Amazon EC2 F1 Instances
 
 ## Containers
 * CON209 - Interstella 8888: Learn How to Use Docker on AWS
@@ -53,6 +58,7 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * CON213 - Hands-on Deployment of Kubernetes on AWS
 * CON317 - Advanced Container Management at Catsndogs.lol
 * CON332 - Build a Java Spring Application on Amazon ECS
+* CON319 - Interstella 8888: CICD for Containers on AWS
 
 ## Content Delivery
 * CTD403 - Supercharge Your Websites with the Power of Lambda@Edge
@@ -61,6 +67,8 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * DAT339 - Replicate, Analyze, and Visualize Datasets using AWS Database Migration Service and Serverless Big Data Technologies
 * DAT340 - Hands-on Journey for Migrating Oracle databases to the Amazon Aurora PostgreSQL-compatible Edition
 * DAT341 - Working with Amazon ElastiCache for Redis
+* DAT343 - Use AWS DMS to Securely Migrate Your Oracle Database to Amazon Aurora with Minimal Downtime
+* DAT405 - Workshop on Advanced Design Patterns for Amazon DynamoDB
 
 ## DevOps
 * DEV326 - DevOps Essentials: An Introductory Workshop on CI/CD Practices
@@ -74,6 +82,7 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * ENT223 - Leveraging the AWS Cloud Adoption Framework to Build Your Cloud Action Plan
 * ENT221 - Enabling Enterprise-Grade Security, Risk, and Compliance Posture in the Cloud
 * ENT220 - How Amazon Works Backward from the Customer to Drive Innovation
+* ENT338 - Automate Best Practices and Operational Health for AWS Resources with AWS Trusted Advisor and AWS Health
 
 
 ## Games
@@ -90,6 +99,7 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * IOT328 - Building an AWS IoT-Enabled Drink Dispenser
 * IOT203 - Getting Started with AWS IoT
 * IOT329 - AWS Greengrass Advanced Workshop
+* IOT205 - Create an IoT Gateway and Establish a Data Pipeline to AWS IoT with Intel
 
 
 ## Life sciences
@@ -105,6 +115,7 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * MCL212 - Building Computer Vision Applications
 * MCL333 - Building Deep Learning Applications with TensorFlow on AWS
 * MCL311 - Accelerating Apache MXNet Models on Apple Platforms Using Core ML
+* MCL346 - NEW LAUNCH! Building Virtual Reality and Augmented Reality Applications with Amazon Sumerian 
 
 # Marketplace
 * MSC204 - Leverage AWS Marketplace to Accelerate Production-Ready Workloads
@@ -139,6 +150,9 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * SID343 - User Management and App Authentication with Amazon Cognito
 * SID341 - Using AWS CloudTrail Logs for Scalable, Automated Anomaly Detection
 * STG319 - Data Security in the Cloud Demystified – Policies, Protection, and Tools for Your Data Assets
+* SID342 - Protect Your Web Applications from Common Attack Vectors Using AWS WAF
+* STG321 - Amazon EFS: Leverage the Power of a Distributed Shared File System in the Cloud
+
 
 ## Serverless
 * SRV331 - Build a Multi-Region Serverless Application for Resilience and High Availability
@@ -147,7 +161,7 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * SRV330 - Serverless DevOps to the Rescue
 * SRV333 - Designing and Implementing a Serverless Media Processing Workflow Using AWS Step Functions
 * SRV425 - Serverless OAuth: Authorizing Third-Party Applications to Your Serverless API
-*
+* SRV424 - Massively Parallel Data Processing with PyWren and AWS Lambda
 
 ## Telecom
 * TLC303 - Walkthrough: Setting up a Highly Available Communications Platform on AWS
