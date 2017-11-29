@@ -37,6 +37,7 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * ARC325 - Managing Multiple AWS Accounts at Scale
 * ARC324 - Building Manageable Windows Workloads
 * ARC326 - Create a Serverless Image Processing Platform
+* ARC327 - How to Determine If You Are Well Architected for Resiliency (or How I Learned to Stop Worrying and Love the Failures)
 
 ## Automotive
 * AMF303 - Deep Dive into the Connected Vehicle Reference Architecture
@@ -59,9 +60,11 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * CON317 - Advanced Container Management at Catsndogs.lol
 * CON332 - Build a Java Spring Application on Amazon ECS
 * CON319 - Interstella 8888: CICD for Containers on AWS
+* CON407 - Interstella 8888: Advanced Microservice Operations
 
 ## Content Delivery
 * CTD403 - Supercharge Your Websites with the Power of Lambda@Edge
+* CTD411 - NEW LAUNCH! Build your own live streaming and on-demand video service with AWS Elemental MediaLive, MediaPackage and MediaConvert Just Added!
 
 ## Data
 * DAT339 - Replicate, Analyze, and Visualize Datasets using AWS Database Migration Service and Serverless Big Data Technologies
@@ -116,6 +119,7 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * MCL333 - Building Deep Learning Applications with TensorFlow on AWS
 * MCL311 - Accelerating Apache MXNet Models on Apple Platforms Using Core ML
 * MCL346 - NEW LAUNCH! Building Virtual Reality and Augmented Reality Applications with Amazon Sumerian 
+* MCL347 - NEW LAUNCH! Driving Dynamically Animated Characters in VR/AR Applications Using Amazon Sumerian Just Added!
 
 # Marketplace
 * MSC204 - Leverage AWS Marketplace to Accelerate Production-Ready Workloads
@@ -152,6 +156,7 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * STG319 - Data Security in the Cloud Demystified – Policies, Protection, and Tools for Your Data Assets
 * SID342 - Protect Your Web Applications from Common Attack Vectors Using AWS WAF
 * STG321 - Amazon EFS: Leverage the Power of a Distributed Shared File System in the Cloud
+* STG322 - Business Decisions Unleashed: Management and Analytics on Your Crucial S3 Datasets
 
 
 ## Serverless
