@@ -11,7 +11,7 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 
 ## Alexa 
 
-* [ALX315 - Test Automation for Alexa Skills](https://github.com/alexa/skill-sample-nodejs-test-automation)[http://awsmicrosite.kr
+* [ALX315 - Test Automation for Alexa Skills](https://github.com/alexa/skill-sample-nodejs-test-automation)
 * ALX307 - Integrate Alexa into Your Product Using the AVS Device SDK
 * ALX402 - Oh No, I Got Featured: How to Build, Scale, and Test an Alexa Backend to Handle All Your New Customers
 * ALX401 - Advanced Alexa Skill Building: Conversation and Memory
@@ -106,7 +106,7 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 
 
 ## Life sciences
-* LFS309 - High-Throughput Genomics on AWS
+* [LFS309 - High-Throughput Genomics on AWS](http://lfs309-pdx.s3-website-us-west-2.amazonaws.com/labs/00-prerequisites.html)
 
 ## Machine & Deep Learning
 * MCL332 - Using Amazon Lex to Build a Customer Service Chatbot 
@@ -160,11 +160,11 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 
 
 ## Serverless
-* SRV331 - Build a Multi-Region Serverless Application for Resilience and High Availability
-* SRV332 - Building Serverless Real-Time Data Processing (Now with Unicorns!)
+* [SRV331 - Build a Multi-Region Serverless Application for Resilience and High Availability](https://github.com/awslabs/aws-serverless-workshops/tree/master/MultiRegion)
+* [SRV332 - Building Serverless Real-Time Data Processing (Now with Unicorns!)](https://github.com/awslabs/aws-serverless-workshops/tree/master/DataProcessing)
 * SRV334 - Making Things Right with AWS Config Rules and AWS Lambda
-* SRV330 - Serverless DevOps to the Rescue
-* SRV333 - Designing and Implementing a Serverless Media Processing Workflow Using AWS Step Functions
+* [SRV330 - Serverless DevOps to the Rescue](https://github.com/awslabs/aws-serverless-workshops/tree/master/DevOps)
+* [SRV333 - Designing and Implementing a Serverless Media Processing Workflow Using AWS Step Functions](https://github.com/awslabs/aws-serverless-workshops/tree/master/ImageProcessing)
 * SRV425 - Serverless OAuth: Authorizing Third-Party Applications to Your Serverless API
 * SRV424 - Massively Parallel Data Processing with PyWren and AWS Lambda
 
