@@ -78,7 +78,7 @@ The information for the AWS Workshops presented at re:Invent 2017 is spread out 
 * DEV337 - Deploy a Data Lake with AWS CloudFormation
 * DEV401 - Advanced DevOps Practices for AWS
 * DEV326 - DevOps Essentials: An Introductory Workshop on CI/CD Practices
-* DEV336 - Stack Mastery: Create and Optimize Advanced AWS CloudFormation Templates
+* [DEV336 - Stack Mastery: Create and Optimize Advanced AWS CloudFormation Templates](files/stack_mastery.zip)
 
 ## Enterprise
 * ENT222 - Creating an Effective Roadmap for Your Cloud Journey
